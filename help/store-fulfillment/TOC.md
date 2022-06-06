@@ -1,6 +1,6 @@
 ---
 user-guide-title: "[!DNL Store FulFillment Guide]"
-user-guide-description: This guide provides detailed information about installing and configuring Store Fulfillment services for your Adobe Commerce or Magento Open Source store.
+user-guide-description: This guide provides detailed information about installing and configuring Store Fulfillment services for your Adobe Commerce store.
 breadcrumb-title: Store Fulfillment by Walmart Technologies Guide
 index: no
 hidden: yes
