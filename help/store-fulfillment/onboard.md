@@ -39,11 +39,11 @@ You must meet the following requirements to install, deploy, and use the solutio
 
 * **Access to the Store Fulfillment by Walmart Technologies software archive (.zip file) to install the Store Fulfillment solution**–During the onboarding and enablement process, your customer account representative will provide download access to the installation file.
 
-* **Experience using Composer and the [!DNL Commerce CLI]**—See [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"} for information about using these tools to install and manage extensions on [!DNL Adobe Commerce] and [!DNL Magento Open Source] platforms.
+* **Experience using Composer and the [!DNL Commerce CLI]**—See [General CLI Installation](https://devdocs.magento.com/extensions/install/){target="_blank"} for information about using these tools to install and manage extensions on [!DNL Adobe Commerce] platform.
 
-* [!DNL Inventory Management] extension for Adobe Commerce and Magento Open Source
+* [!DNL Inventory Management] extension for Adobe Commerce
 
-   You must have the Inventory Management extension installed and enabled on your Adobe Commerce and Magento Open Source instance. Typically, this extension is installed and enabled by default on Adobe Commerce 2.3.x and later. For more information, see [Install Inventory Management](https://devdocs.magento.com/extensions/inventory-management/) in the Adobe Commerce Developer documentation.
+   You must have the Inventory Management extension installed and enabled on your Adobe Commerce instance. Typically, this extension is installed and enabled by default on Adobe Commerce 2.3.x and later. For more information, see [Install Inventory Management](https://devdocs.magento.com/extensions/inventory-management/) in the Adobe Commerce Developer documentation.
 
 ## Platform and version requirements
 
